@@ -21,9 +21,9 @@ Repositório destinado a resolução de problemas do LeetCode, envolvendo os con
 
 ## Screenshots
 
-![1]()
-![2]()
-![3]()
+![1](./assets/215.png)
+![2](./assets/2426.png)
+![3](./assets/4.png)
 
 ## Instalação 
 **Linguagem**: Python
